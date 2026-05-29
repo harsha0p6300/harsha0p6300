@@ -2,7 +2,11 @@
 
 **`Data Analytics Learner | SQL | Python | Excel | Data visualization Tools Building Real-World Projects`**
 
-Passionate about developing data-driven solutions through real-world SQL projects and database analysis. Continuously expanding my Python skills for data analysis and automation workflows. Creating interactive dashboards and visualizations using Power BI to uncover actionable insights. Actively sharing projects and documenting my learning journey on GitHub to demonstrate practical expertise and continuous growth
+- Building SQL projects using real-world datasets.
+- Learning Python and its Libraries for data analysis and automation.
+- Creating dashboards with Visualization Tools.
+- Sharing projects and learning progress on GitHub.
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/beharaharshavardhan/" target="_blank">
