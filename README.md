@@ -1,6 +1,6 @@
 <h1 align="center">🤖 HarshaVardhan</h1>
 
-**`Data Analytics Learner | SQL | Python | Excel | Data visualization Tools Building Real-World Projects`**
+**`Data Analyst | SQL | Python | Excel | Data visualization Tools Building Real-World Projects`**
 
 
 ## About me
