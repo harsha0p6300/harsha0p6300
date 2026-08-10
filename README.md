@@ -4,10 +4,12 @@
 
 
 ## About me
-- Building SQL projects using real-world datasets.
-- Learning Python and its Libraries for data analysis and automation.
-- Creating dashboards with Visualization Tools.
-- Sharing projects and learning progress on GitHub.
+My journey into Data Analytics started with curiosity about how raw data can be transformed into meaningful insights. As I continue learning, I’m building real-world projects using SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Excel.
+
+I enjoy working with datasets, cleaning and analyzing data, discovering patterns, creating visualizations, and turning findings into insights that can support better business decisions. I’m also strengthening my skills in MySQL and PostgreSQL by solving practical SQL problems and building projects around real-world business scenarios.
+
+Currently, I’m focused on becoming a strong Data Analyst by continuously learning, building projects, and improving my problem-solving and analytical skills. I use GitHub to document my projects, share what I learn, and track my growth throughout this journey.
+
 
 ## Social links
 <div style="display:flex; align-items:center; gap:24px;">
