@@ -5,11 +5,9 @@
 
 ## About me
 
-My journey into Data Analytics started with curiosity about how raw data can be transformed into meaningful insights. Since then, I’ve been developing my skills by working on real-world projects using **SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Excel**.
+Hello, I'm Harsha! A B.Tech graduate passionate about Data Analytics and Business Intelligence. I combine Python, SQL, Excel, and Power BI with analytical thinking to transform raw data into meaningful insights and help businesses make data-driven decisions.
 
-I enjoy working with datasets, cleaning and analyzing data, identifying patterns, creating meaningful visualizations, and turning data into insights that can support better business decisions. I’m also strengthening my SQL skills in **MySQL and PostgreSQL** by solving practical problems and working with real-world business scenarios.
-
-Currently, I’m focused on becoming a strong **Data Analyst** by continuously learning, building practical projects, and improving my analytical and problem-solving skills. I use GitHub to document my projects, share what I learn, and track my growth throughout my journey in Data Analytics.
+Currently, I’m focused on becoming a strong **Data Analyst** by continuously learning, building practical projects, and improving my analytical and problem-solving skills. I use GitHub to document my projects, share what I learn, and track my growth throughout my journey .
 
 
 
