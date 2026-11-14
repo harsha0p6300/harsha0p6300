@@ -1,8 +1,3 @@
-<h1 align="center">🤖 HarshaVardhan</h1>
-
-**`Data Analyst | SQL | Python | Excel | Data visualization Tools Building Real-World Projects`**
-
-
 ## About me
 
 Hello, I'm Harsha! A B.Tech graduate passionate about Data Analytics and Business Intelligence. I combine Python, SQL, Excel, and Power BI with analytical thinking to transform raw data into meaningful insights and help businesses make data-driven decisions.
