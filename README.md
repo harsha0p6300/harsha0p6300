@@ -8,7 +8,7 @@ Currently, I’m focused on becoming a strong **Data Analyst** by continuously l
 
 ### 📚 Projects
 
-Explore my Data Analytics, SQL, Python, and Power BI projects, featuring real-world business problems, data-driven insights, and interactive dashboards in my [GitHub Portfolio](YOUR_GITHUB_PORTFOLIO_LINK).
+Explore my Data Analytics, SQL, Python, and Power BI projects, featuring real-world business problems, data-driven insights, and interactive dashboards in my [Portfolio](https://github.com/harsha0p6300/Portfolio-Projects)
 
 
 ### 🛠️ Tools & Technologies
